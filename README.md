@@ -1,6 +1,6 @@
 # Halp
 
-App to allow for real-time work requests to be made
+App to allow for real-time emergency events to be posted and found
 
 Development Steps:
 - Build off of Google Maps Demo (done)
