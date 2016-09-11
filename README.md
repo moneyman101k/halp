@@ -1,4 +1,4 @@
-# Halp
+# HALP
 
 App to allow for real-time emergency events to be posted and found --> still working on this.
 
