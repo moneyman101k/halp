@@ -1,6 +1,6 @@
 # Halp
 
-App to allow for real-time emergency events to be posted and found
+App to allow for real-time emergency events to be posted and found --> still working on this.
 
 Development Steps:
 - Build off of Google Maps Demo (done)
